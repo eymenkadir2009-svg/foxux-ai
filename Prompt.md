@@ -4,7 +4,7 @@
 
 To get the best results from **Foxux AI**, here are optimized prompt structures for study, task execution, casual chat, and coding.
 
-### 📚 1. Studying & Learning (Çalışma & Öğrenme)
+### 📚 1. Studying & Learning (工作与学习)
 Use structured prompts to get clear explanations, summaries, or step-by-step learning paths.
 
 * **Concept Breakdown:**
@@ -14,7 +14,7 @@ Use structured prompts to get clear explanations, summaries, or step-by-step lea
 
 ---
 
-### 📋 2. Homework & Task Execution (Ödev & Görev Hazırlama)
+### 📋 2. Homework & Task Execution (作业与任务准备)
 Guide the AI to assist with homework or task execution without just giving flat answers.
 
 * **Step-by-Step Homework Helper:**
@@ -24,7 +24,7 @@ Guide the AI to assist with homework or task execution without just giving flat 
 
 ---
 
-### 💬 3. Conversational & Roleplay (Sohbet & Personalar)
+### 💬 3. Conversational & Roleplay (聊天与角色)
 Set specific personas or guidelines for organic interaction.
 
 * **Interactive Discussion:**
@@ -34,7 +34,7 @@ Set specific personas or guidelines for organic interaction.
 
 ---
 
-### 💻 4. Coding & Architecture (Kod Yazma & Geliştirme)
+### 💻 4. Coding & Architecture (编程与开发)
 Provide context, constraints, and runtime details for accurate code output.
 
 * **Code Generation (With Constraints):**
