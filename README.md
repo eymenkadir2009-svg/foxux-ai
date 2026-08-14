@@ -1,6 +1,6 @@
 <div align="center">
 
-[![logo: MIT](https://wad.nyc3.digitaloceanspaces.com/yourfiles/uploads/6fd9e72477f0fd0e512f63ea2ccf5524/logo-removebg-preview.png)](LOGO) Foxux AI
+[![logo: MIT](https://wad.nyc3.digitaloceanspaces.com/yourfiles/uploads/6fd9e72477f0fd0e512f63ea2ccf5524/logo-removebg-preview.png)](LOGO)
 
 **A lightweight, modular AI ecosystem for high-efficiency inference and multi-agent workflows.**
 
