@@ -1,0 +1,2 @@
+# foxux-ai
+Free ai
