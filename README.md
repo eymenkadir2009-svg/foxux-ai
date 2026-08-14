@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦊 Foxux AI
+# https://wad.nyc3.digitaloceanspaces.com/yourfiles/uploads/6fd9e72477f0fd0e512f63ea2ccf5524/logo-removebg-preview.png Foxux AI
 
 **A lightweight, modular AI ecosystem for high-efficiency inference and multi-agent workflows.**
 
